@@ -1,0 +1,8 @@
+header {
+    height: 60px;
+}
+
+.header-navbar {
+    justify-content: center;
+    height: 100%;
+}

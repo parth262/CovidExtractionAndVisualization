@@ -1,0 +1,20 @@
+{
+  "name": "who-newzealand",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "@azure/storage-blob": "^12.1.2",
+    "cheerio": "^1.0.0-rc.3",
+    "convert-excel-to-json": "^1.6.1",
+    "csvtojson": "^2.0.10",
+    "json2csv": "^5.0.1",
+    "moment-timezone": "^0.5.31",
+    "mssql": "^6.2.0",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {}
+}

@@ -1,0 +1,11 @@
+{
+  "bindings": [
+    {
+      "name": "myBlob",
+      "type": "blobTrigger",
+      "direction": "in",
+      "path": "sg-2/unprocessed/{name}",
+      "connection": "whocovidstorage_STORAGE"
+    }
+  ]
+}

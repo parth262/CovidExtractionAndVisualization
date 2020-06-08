@@ -1,0 +1,49 @@
+.ResultSection {
+    display: flex;
+    overflow: hidden;
+    flex-flow: column;
+    height: 100%;
+    padding: 12px 12px 0 12px;
+    grid-column-start: 2;
+    grid-column-end: 5;
+}
+
+.resultsTable {
+    flex: 1 1 auto;
+    width: 100%;
+    overflow: auto;
+}
+
+.searchBar {
+    flex: 0 1 auto;
+}
+
+.countryDropdown, .sortBy {
+    display: inline-block;
+}
+
+.dropdown-menu {
+    height: 300px;
+    overflow-y: auto;
+}
+
+.sortBy {
+    max-height: 300px;
+}
+
+table {
+    text-align: left;
+    position: relative;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 0.25rem
+}
+
+th {
+    background-color: #ffffff;
+    position: sticky;
+    top: 0;
+    box-shadow: 0 2px 2px -1px rgba(0, 0, 0, 0.4);
+}

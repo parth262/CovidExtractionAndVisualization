@@ -1,0 +1,26 @@
+.Filter {
+    overflow: auto;
+}
+
+.addFilterBtn{
+    float: right;
+    cursor: pointer;
+    padding: 0 8px;
+    border-radius: 4px;
+}
+
+.addFilterBtn:hover {
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.FilterBody {
+    padding: 8px 12px;
+}
+
+.fieldFilter {
+    font-size: 12px;
+}
+
+.fieldFilterHeader {
+    cursor: pointer;
+}
