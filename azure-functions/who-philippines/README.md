@@ -5,6 +5,7 @@ Scrapping and processing functions for Philippines' COVID related data
 1. Create following container/s in Azure Blob Storage created to save covid data
     1. phl-1
 2. Open this project in **Visual Studio Code**
+3. For processing function, change **server** and **database** config in sqlHelperFunctions.js
 
 ### Steps to Debug locally:
 1. Create **local.settings.json** file with following values:

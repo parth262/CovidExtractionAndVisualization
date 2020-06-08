@@ -6,6 +6,7 @@ Scrapping and processing functions for Singapore's COVID related data
     1. sg-1
     2. sg-2
 2. Open this project in **Visual Studio Code**
+3. For each processing function, change **server** and **database** config in sqlHelperFunctions.js
 
 ### Steps to Debug locally:
 1. Create **local.settings.json** file with following values:

@@ -8,6 +8,7 @@ Scrapping and processing functions for South Korea's COVID related data
     3. kor-3
     4. kor-4
 2. Open this project in **Visual Studio Code**
+3. For each processing function, change **server** and **database** config in sqlHelperFunctions.js
 
 ### Steps to Debug locally:
 1. Create **local.settings.json** file with following values:
