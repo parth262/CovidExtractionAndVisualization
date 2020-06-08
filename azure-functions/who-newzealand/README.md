@@ -3,7 +3,7 @@ Scrapping and processing functions for New Zealand's COVID related data
 
 ### Prerequisite steps:
 1. Create following container/s in Azure Blob Storage created to save covid data
-    1. hkg-1
+    1. nzl-1
 2. Open this project in **Visual Studio Code**
 
 ### Steps to Debug locally:
