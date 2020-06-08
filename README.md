@@ -1,8 +1,8 @@
 ## Steps to set up WHO COVID Search Architecture in Azure
 
 1. Create [**SQL Database**](https://docs.microsoft.com/en-us/azure/azure-sql/database/single-database-create-quickstart?tabs=azure-portal): to save covid data
-    - Afterwards create tables with [these](SQL\sQueries/Create\sTable\sQueries) queries
-    - Also create required procedures with [these](SQL\sQeuries/Create\sProcedure\sQueries) queries
+    - Afterwards create tables with [these](SQL%20Queries/Create%20Table%20Queries) queries
+    - Also create required procedures with [these](SQL%20Qeuries/Create%20Procedure%20Queries) queries
 
 2. Create [**Azure Blob Storage**](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-create-account-block-blob?tabs=azure-portal#create-a-blockblobstorage-account-1): to save scrapped data
 
