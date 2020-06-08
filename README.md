@@ -15,13 +15,13 @@
         - Make all the fields Retrievable, Sortable, Facetable, Filterable.
         - Make all the fields, except *patient_uid*, Searchable
     - For indexer, select *Schedule* as *Hourly*
-    - Atlast, put *datetime_of_latest_extraction* as *High watermark column* in Data Source settings and *Save*
+    - After creating index, go to **Data Sources**, select the sql data source, put *datetime_of_latest_extraction* as *High watermark column* in settings and *Save*
 
-5. Create [**Azure Web App**](who-search-ui): to host Search UI
+5. Create [**Azure Translator Cognitive Service**](https://docs.microsoft.com/en-us/azure/cognitive-services/cognitive-services-apis-create-account?tabs=singleservice%2Clinux): to translate data from other languages to English
 
-6. Create [**Azure Translator Cognitive Service**](https://docs.microsoft.com/en-us/azure/cognitive-services/cognitive-services-apis-create-account?tabs=singleservice%2Clinux): to translate data from other languages to English
+6. Create [**Azure Function Apps**](azure-functions): to host processing and scrapping functions for each country
 
-7. Create [**Azure Function Apps**](azure-functions): to host processing and scrapping functions for each country
+7. Create [**Azure Web App**](who-search-ui): to host Search UI
 
 
 *Notes*:
