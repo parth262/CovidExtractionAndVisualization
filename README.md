@@ -21,7 +21,7 @@
 
 6. Create [**Azure Function Apps**](azure-functions): to host processing and scrapping functions for each country
 
-7. Create [**Azure Web App**](who-search-ui): to host Search UI
+7. Create [**Azure Web App**](search-ui): to host Search UI
 
 
 *Notes*:

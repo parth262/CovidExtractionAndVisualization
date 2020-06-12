@@ -10,12 +10,12 @@
     - In **Hosting** section select Azure Storage Account created to save Azure Function Apps' data
 
 2. Deploy any of the following function by following steps for that specific function:
-    1. [who-hongkong](who-hongkong)
-    2. [who-japan](who-japan)
-    3. [who-newzealand](who-newzealand)
-    4. [who-philippines](who-philippines)
-    5. [who-singapore](who-singapore)
-    6. [who-southkorea](who-southkorea)
+    1. [hongkong](hongkong)
+    2. [japan](japan)
+    3. [newzealand](newzealand)
+    4. [philippines](philippines)
+    5. [singapore](singapore)
+    6. [southkorea](southkorea)
 
 
 For more information on Azure Functions [click here](https://docs.microsoft.com/en-us/azure/azure-functions/).
