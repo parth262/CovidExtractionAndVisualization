@@ -5,9 +5,9 @@ import { NumericFieldValueMap } from "../components/filters/NumericFilter"
 import { DateFieldValueMap } from "../components/filters/DateFilter"
 import { fieldfacetCountMap } from "../components/constants"
 
-const serviceName = "who-search"
-const indexName = "who-covid-data-index"
-const apiKey = "A41465781BA1BDC6294E4B22D5CD5B91"
+const serviceName = "<azure-search-service-name>"
+const indexName = "<azure-search-index-name>"
+const apiKey = "<azure-search-index-apikey>"
 const apiVersion = "2019-05-06"
 const url = `https://${serviceName}.search.windows.net/indexes/${indexName}/docs/search?api-version=${apiVersion}`
 
