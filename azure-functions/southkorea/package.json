@@ -13,7 +13,7 @@
     "jsdom": "^16.2.2",
     "moment-timezone": "^0.5.31",
     "mssql": "^6.2.0",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.7"
   },
   "devDependencies": {}
 }
