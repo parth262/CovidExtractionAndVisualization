@@ -12,7 +12,7 @@
     "json2csv": "^5.0.1",
     "moment-timezone": "^0.5.31",
     "mssql": "^6.2.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "pdf2json": "^1.2.0"
   },
   "devDependencies": {}
