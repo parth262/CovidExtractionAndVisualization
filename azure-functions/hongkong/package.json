@@ -10,7 +10,7 @@
     "@azure/storage-blob": "^12.1.1",
     "csvtojson": "^2.0.10",
     "json2csv": "^5.0.1",
-    "moment-timezone": "^0.5.31",
+    "moment-timezone": "^0.5.35",
     "mssql": "^6.2.0",
     "node-fetch": "^2.6.0",
     "pdf2json": "^1.2.0"
